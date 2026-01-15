@@ -43,29 +43,24 @@ This project satisfies the course technical requirements through the following i
 
 ---
 
-## IV. How to Run the Program
-1.  **Prerequisites:**
-    * Install **Apache NetBeans IDE** (or any Java IDE).
-    * Ensure **JDK (Java Development Kit)** is installed.
-2.  **Installation:**
-    * Download the project files or clone the repository.
-    * Open Apache NetBeans.
-    * Go to `File` > `Open Project` and select `CurrencyConverter_[LastName]`.
-3.  **Execution:**
-    * Navigate to `MainFrame.java` in the Source Packages.
-    * Right-click the file and select **Run File** (Shift + F6).
-4.  **Usage:**
-    * Enter a numeric amount in the text field.
-    * Select the conversion type from the dropdown menu.
-    * Click the **Convert** button.
-    * View the result and the updated history log below.
+IV. How to Run the Program
+1.  Prerequisites:
+    -Install **Apache NetBeans IDE** (or any Java IDE).
+    -Ensure **JDK (Java Development Kit)** is installed.
+2.  Installation:
+    -Download the project files or clone the repository.
+    -Open Apache NetBeans.
+    -Go to `File` > `Open Project` and select `CurrencyConverter_[LastName]`.
+3.  Execution
+    -Navigate to `MainFrame.java` in the Source Packages.
+    -Right-click the file and select **Run File** (Shift + F6).
+4.  Usage:
+    -Enter a numeric amount in the text field.
+    -Select the conversion type from the dropdown menu.
+    -Click the **Convert** button.
+    -View the result and the updated history log below.
 
----
 
-## V. Sample Output
+V. Sample Output
 <img width="863" height="909" alt="image" src="https://github.com/user-attachments/assets/de8df66a-ba66-458b-90f2-c5d4b567bccf" />
 <img width="619" height="898" alt="image" src="https://github.com/user-attachments/assets/d690a051-85b0-45bc-8ebf-1399c8da9835" />
-
-
-
-[PLEASE UPLOAD A SCREENSHOT OF YOUR RUNNING APP HERE IN GITHUB]
