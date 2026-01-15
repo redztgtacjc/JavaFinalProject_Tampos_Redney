@@ -1,4 +1,4 @@
-# Java Capstone Project: Peso-Dollar Currency Converter
+# Peso-Dollar Currency Converter
 
 **Author:** Tampos, Redney
 **Course:** Programming Logic and Design
